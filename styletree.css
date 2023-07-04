@@ -1,0 +1,27 @@
+#status_status
+{
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#status
+{
+    background-color: black;
+    font-size: small;
+    font-weight: bold;
+}
+
+#object_info
+{
+    
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+canvas
+{
+        border-radius: 20px;
+        box-shadow: 5px 5px 5px grey;
+}
